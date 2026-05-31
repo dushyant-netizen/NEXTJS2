@@ -105,6 +105,7 @@ trello-clone/
   |- ,env
   |- .eslintrc.json
   |- .gitignore
+  |- .npmrc
   |- bun.lock
   |- components.json
   |- middleware.ts
@@ -239,8 +240,8 @@ Useful resources and libraries that are used in My Portfolio
 - [@tanstack/react-query](https://www.npmjs.com/package/@tanstack/react-query): ^5.90.21
 - [@types/lodash](https://www.npmjs.com/package/@types/lodash): ^4.17.23
 - [@types/node](https://www.npmjs.com/package/@types/node): ^25.2.3
-- [@types/react](https://www.npmjs.com/package/@types/react): ^19.2.14
-- [@types/react-dom](https://www.npmjs.com/package/@types/react-dom): ^19.2.3
+- [@types/react](https://www.npmjs.com/package/@types/react): ^18.2.66
+- [@types/react-dom](https://www.npmjs.com/package/@types/react-dom): ^18.2.22
 - [@vercel/config](https://www.npmjs.com/package/@vercel/config): ^0.0.33
 - [autoprefixer](https://www.npmjs.com/package/autoprefixer): ^10.4.24
 - [class-variance-authority](https://www.npmjs.com/package/class-variance-authority): ^0.7.1
@@ -250,12 +251,12 @@ Useful resources and libraries that are used in My Portfolio
 - [eslint-config-next](https://www.npmjs.com/package/eslint-config-next): 14.0.3
 - [lodash](https://www.npmjs.com/package/lodash): ^4.17.23
 - [lucide-react](https://www.npmjs.com/package/lucide-react): ^0.574.0
-- [next](https://www.npmjs.com/package/next): 15.5.18
+- [next](https://www.npmjs.com/package/next): ^14.2.23
 - [next-pwa](https://www.npmjs.com/package/next-pwa): ^5.6.0
 - [postcss](https://www.npmjs.com/package/postcss): ^8
 - [prisma](https://www.npmjs.com/package/prisma): ^5.6.0
-- [react](https://www.npmjs.com/package/react): ^19.2.4
-- [react-dom](https://www.npmjs.com/package/react-dom): ^19.2.4
+- [react](https://www.npmjs.com/package/react): 18.2.0
+- [react-dom](https://www.npmjs.com/package/react-dom): 18.2.0
 - [sonner](https://www.npmjs.com/package/sonner): ^2.0.7
 - [stripe](https://www.npmjs.com/package/stripe): ^20.3.1
 - [tailwind-merge](https://www.npmjs.com/package/tailwind-merge): ^2.0.0
