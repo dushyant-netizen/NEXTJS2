@@ -56,6 +56,7 @@ trello-clone/
     |-- delete-board/
     |-- delete-card/
     |-- delete-list/
+    |-- get-boards/
     |-- stripe-redirect/
     |-- update-board/
     |-- update-card/
@@ -66,11 +67,8 @@ trello-clone/
     |-- (marketing)/
     |-- (platform)/
     |-- api/
-    |-- apple-icon.png
     |-- favicon.ico
     |-- globals.css
-    |-- icon1.png
-    |-- icon2.png
     |-- layout.tsx
   |- components/
     |-- form/
@@ -104,17 +102,14 @@ trello-clone/
   |- prisma/
     |-- schema.prisma
   |- public/
-<<<<<<< HEAD
-  |- .env.example
-  |- .env/.env.local
-=======
->>>>>>> 8fdf9ad053f36cbb90faf5dc77ca76b330b44d6e
   |- .eslintrc.json
   |- .gitignore
   |- bun.lock
   |- components.json
   |- middleware.ts
+  |- next-env.d.ts
   |- next.config.js
+  |- package-lock.json
   |- package.json
   |- postcss.config.js
   |- tailwind.config.ts
