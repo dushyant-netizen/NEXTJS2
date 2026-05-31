@@ -17,6 +17,8 @@ const nextConfig = {
       allowedOrigins: ["localhost:3000"],
     },
   },
+  // Bypasses the compiler bug by running these as standard Node modules
+  serverComponentsExternalPackages: ['@peculiar/utils', '@peculiar/webcrypto'],
 };
 
 module.exports = nextConfig;
